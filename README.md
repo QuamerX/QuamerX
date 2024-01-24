@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @QuamerX
-- 👀 I’m interested in C# and Java
-- 🌱 I’m currently learning Java mostly
-- 💞️ I’m looking to collaborate on Web Projects
+- 👀 I’m interested in C/C++
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on C++
 - 📫 How to reach me talhacetin96@hotmail.com
 
 <!---
